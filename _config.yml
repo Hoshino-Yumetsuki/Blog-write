@@ -106,10 +106,6 @@ theme: typography
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-- type: git
-  repo: git@github.com:SuSWhW/Blog-reading.git
-  branch: gh-pages
-  ignore_hidden: false
 
 # Generate archive page
 archive_generator:
