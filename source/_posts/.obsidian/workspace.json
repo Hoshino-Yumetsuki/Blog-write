@@ -6,7 +6,7 @@
       {
         "id": "062db77d1e73e3a8",
         "type": "split",
-        "dimension": 24.288617886178862,
+        "dimension": 24.324324324324326,
         "children": [
           {
             "id": "14bf3744eb85fdef",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "梦溯镜影-设定集.md"
+                    "file": "梦溯镜影-楔子.md"
                   }
                 }
               }
@@ -32,13 +32,8 @@
                 "id": "38b755399d444a4d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "hello-world.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "mindmap",
+                  "state": {}
                 }
               }
             ]
@@ -49,16 +44,16 @@
       {
         "id": "8651b3580fd50498",
         "type": "tabs",
-        "dimension": 75.71138211382113,
+        "dimension": 75.67567567567568,
         "children": [
           {
-            "id": "a48c97167056a719",
+            "id": "0e112401adf0a2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-设定集.md",
-                "mode": "preview",
+                "file": "梦溯镜影-楔子.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -104,7 +99,7 @@
             }
           },
           {
-            "id": "86ec59b53a4afe70",
+            "id": "49284b3183fa8f0c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,7 +147,7 @@
             }
           },
           {
-            "id": "dd394d106eaee0c6",
+            "id": "9dea33b46715ea5c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -185,19 +180,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "a48c97167056a719",
+  "active": "0e112401adf0a2c4",
   "lastOpenFiles": [
-    "hello-world.md",
     "梦溯镜影-设定集.md",
+    "梦溯镜影-楔子.md",
+    "hello-world.md",
     "墙.md",
     "奇闻.md",
     "简爱中的女性意识.md",
