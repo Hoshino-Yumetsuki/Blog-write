@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "谷歌娘金句收集.md"
+                    "file": "梦溯镜影-设定集.md"
                   }
                 }
               }
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谷歌娘金句收集.md",
-                "mode": "preview",
+                "file": "梦溯镜影-设定集.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5b12e5358a91d971",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -137,6 +145,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a14f591260fb2a90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
@@ -161,13 +180,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "13ddd6c331c083fc",
