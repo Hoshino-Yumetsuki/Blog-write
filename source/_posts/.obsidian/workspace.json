@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "5b12e5358a91d971",
+            "id": "c12cdc3ad3a8bbe6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "a14f591260fb2a90",
+            "id": "8e42916d6ce97dd8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,19 +180,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
     "梦溯镜影-设定集.md",
     "梦溯镜影-Chapter 0.md",
+    "梦溯镜影-Chapter 0 1.md",
     "hello-world.md",
     "墙.md",
     "奇闻.md",
