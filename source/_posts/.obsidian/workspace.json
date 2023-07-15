@@ -17,7 +17,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "梦溯镜影-设定集.md"
+                  }
                 }
               }
             ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-Chapter 0.md",
+                "file": "梦溯镜影-设定集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +189,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3a425da41c797839",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
     "梦溯镜影-Chapter 0.md",
     "梦溯镜影-设定集.md",
