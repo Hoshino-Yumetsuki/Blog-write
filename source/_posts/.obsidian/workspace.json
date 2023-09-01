@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "梦溯镜影-设定集.md"
+                    "file": "梦溯镜影-C2-樱花树下的契约.md"
                   }
                 }
               }
@@ -47,12 +47,12 @@
         "dimension": 75.67567567567568,
         "children": [
           {
-            "id": "13ddd6c331c083fc",
+            "id": "f6324a141e0a00e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-设定集.md",
+                "file": "梦溯镜影-C2-樱花树下的契约.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -189,12 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "f6324a141e0a00e9",
   "lastOpenFiles": [
-    "梦溯镜影-Chapter 0.md",
-    "梦溯镜影-设定集.md",
-    "梦溯镜影-Chapter 0 1.md",
+    "梦溯镜影-C1-被绑定的人生.md",
+    "梦溯镜影-C2-樱花树下的契约.md",
+    "梦溯镜影-C0-设定集.md",
     "hello-world.md",
+    "梦溯镜影-Chapter 0 1.md",
     "墙.md",
     "奇闻.md",
     "简爱中的女性意识.md",
