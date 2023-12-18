@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md"
+                    "file": "梦溯镜影-C2-樱花树下的契约.md"
                   }
                 }
               }
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
-                "mode": "source",
+                "file": "梦溯镜影-C2-樱花树下的契约.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "aa1ae17f2e850923",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -137,6 +145,27 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "678d3337090785c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15252e71db1f80a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -172,11 +201,11 @@
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "hello-world.md",
     "谷歌娘金句收集.md",
     "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
     "拯救流量爆炸的vercel——使用cloudflare worker做负载均衡.md",
-    "hello-world.md",
     "简爱中的女性意识.md",
     "Next魔改记录.md",
     "未命名.canvas",
